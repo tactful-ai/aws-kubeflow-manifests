@@ -18,8 +18,8 @@ data:
       skipApprovalScreen: true
     enablePasswordDB: true
     staticPasswords:
-    - email: user@example.com
-      hash: $2y$12$4K/VkmDd1q1Orb3xAt82zu8gk7Ad6ReFR4LCP9UeYE90NLiN9Df72
+    - email: tactful
+      hash: $2y$12$HLknd.M19J7lwm7V5jlZOe39tXlYArb32bdpejRzQ26YmpJ1zv2lq
       username: user
       userID: "15841185641784"
     - email: test-user@kubeflow.org

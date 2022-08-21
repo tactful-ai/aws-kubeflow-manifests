@@ -1,7 +1,7 @@
 apiVersion: kubeflow.org/v1
 kind: Profile
 metadata:
-  name: ${NAMESPACE}
+  name: profile-aws-iam
 spec:
   owner:
     kind: User
